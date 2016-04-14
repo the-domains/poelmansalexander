@@ -1,0 +1,28 @@
+name: Poelmansalexander
+favicon: null
+layout_spectrum: 0.2867515275720507
+typography_spectrum: 0.04751054756343365
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.5148954761680216
+  lightness: 0.5262565172743052
+  saturation: 0.3411139193922281
+  rhythmicContrast: 0.36221790593117476
+purpose: []
